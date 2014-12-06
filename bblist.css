@@ -21,13 +21,13 @@ ul.iconlist li:before {
     padding: 0 10px;
 }
 
-ul.iconlist.ok-sign li:before {
+ul.iconlist.ok li:before {
     content: "\e013";
 }
 ul.iconlist.check li:before {
     content: "\e067";
 }
-ul.iconlist.ok li:before {
+ul.iconlist.ok-sign li:before {
     content: "\e084";
 }
 ul.iconlist.ok-circle li:before {
