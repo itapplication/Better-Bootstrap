@@ -15,6 +15,15 @@ You need to create ul with class iconlist to create particular set of icons like
  <li>Third list item</li>
  </ul>
  ```
+ <h2>Instead of set of icon create list with individual icon with each li(list) items</h2>
+```html
+<ul class="iconlist">
+ <li class="home">First list item.</li>
+ <li class="check">Second list item</li>
+ <li class="remove">Third list item</li>
+ <li class="check">Fourth list item</li>
+ </ul>
+```
  
 Seeking contributors
 ====================
