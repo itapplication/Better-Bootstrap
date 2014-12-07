@@ -24,7 +24,8 @@ You need to create ul with class iconlist to create particular set of icons like
  <li class="check">Fourth list item</li>
  </ul>
 ```
- 
+<img src="https://raw.githubusercontent.com/itapplication/Better-Bootstrap/master/bblist.png" />
+
 Seeking contributors
 ====================
 Your ideas are always welcome. Please fork the project and Submit a pull request to the project with detail description. 
