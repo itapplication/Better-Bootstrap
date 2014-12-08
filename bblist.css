@@ -15,7 +15,7 @@ ul.iconlist.green li:before,ul.iconlist li.green:before{color:#0f0;}
 
 /* Bootstrap Glyphicon for set of (li)list of ul */
 ul.iconlist{
-  list-style:none;padding:0;/*Don't add font-family here to avoid word spacing bug*/
+  list-style:none;padding:0;/* Don't add font-family here to avoid word spacing bug */
 }
 ul.iconlist li:before{
   font-family:'Glyphicons Halflings';
