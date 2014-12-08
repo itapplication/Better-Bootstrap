@@ -7,7 +7,7 @@ With Better Bootstrap you can create list with Glyphicon icons. Bootstrap provid
 
 How to create &lt;ul&gt; &lt;li&gt;.. list with Glyphicon
 =============================================
-You need to create ul with class iconlist to create particular set of icons like -
+<h2>You need to create ul with class iconlist to create particular set of icons like example below</h2>
 ```html
 <ul class="iconlist ok">
  <li>First list item.</li>
