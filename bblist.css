@@ -15,9 +15,10 @@ ul.iconlist.green li:before,ul.iconlist li.green:before{color:#0f0;}
 
 /* Bootstrap Glyphicon for set of (li)list of ul */
 ul.iconlist{
-  list-style:none;padding:0;font-family:'Glyphicons Halflings';
+  list-style:none;padding:0;
 }
 ul.iconlist li:before{
+  font-family:'Glyphicons Halflings';
   position:relative;
   top:1px;
   display:inline-block;
