@@ -26,6 +26,9 @@ You need to create ul with class iconlist to create particular set of icons like
 ```
 <img src="https://raw.githubusercontent.com/itapplication/Better-Bootstrap/master/bblist.png" />
 
+<h2>More component</h2>
+We need to add more component to make it more better 
+
 Seeking contributors
 ====================
 Your ideas are always welcome. Please fork the project and Submit a pull request to the project with detail description. 
