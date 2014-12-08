@@ -3,7 +3,7 @@ Better-Bootstrap
 
 We love Bootstrap but bootstrap lack some features. 
 Better Bootstrap is for fill the gap with addition of some must have features.
-With Better Bootrap you can create list with Glyphicon icons. Bootstrap provide native support for icon font Glyphicon.
+With Better Bootstrap you can create list with Glyphicon icons. Bootstrap provide native support for icon font Glyphicon.
 
 How to create &lt;ul&gt; &lt;li&gt;.. list with Glyphicon
 =============================================
